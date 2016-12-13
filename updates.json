@@ -3,6 +3,6 @@
     "readme": "Second release",
     "update": "https://github.com/abalad/electron-simple/blob/master/win/",
     "install": "https://github.com/abalad/electron-simple/blob/master/win/Simple Updater Example Setup 0.0.2.exe",
-    "version": "0.0.2"
+    "version": "0.0.5"
   }
 }
